@@ -1,0 +1,245 @@
+  # 此BOSS配置均为作者F1xSky(修天)原创
+  # 该配置均为免费公开使用，切勿将该配置盗卖
+  # 若你在其他地方购买了此配置，请及时联系作者
+  # 作者QQ：898451302
+冲刺技能:
+  Cooldown: 30
+  Conditions:
+  - health{h=900to1000} true
+  Skills:
+  - m{m="&6巴尔坦：&f呣!!!!!"} @pir{r=50}
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=1} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=1} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=2} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=2} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=3} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=3} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=4} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=4} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=5} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=5} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=6} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=6} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=7} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=7} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=8} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=8} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=9} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=9} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=10} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=10} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=11} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=11} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=12} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=12} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=13} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=13} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=14} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=14} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=15} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=15} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=16} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=16} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=17} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=17} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=18} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=18} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=19} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=19} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=3;sfo=20} @SelfEyeLocation
+  - effect:particles{p=Cloud;a=16;;repeat=40;ht=false;pitch=0f;repeati=1;sso=-3;sfo=20} @SelfEyeLocation
+  - delay 40
+  - projectile{mr=20;ot=冲刺效果;velocity=8;i=1;onhit=冲刺命中;oe=冲刺结束;hnp=true;hr=0.2;vr=0.2;hr=3;vR=2} @forward{f=111;y=1;lockpitch=true}
+冲刺效果:
+  Skills:
+  - lunge{v=0.5;old=true} @origin{y=-1}
+  - jump{v=-1}
+冲刺命中:
+  Skills:
+  - explode{y=5;bd=true} @selflocation{y=1}
+  - jump{v=-1}
+  - throw{v=3;vy=5}
+  - setai{ai=false} @self
+  - effect:particleorbital{r=0.5;points=16;t=100;i=1;vy=100;oy=2.5;particle=Enchanted_Hit} @SelfLocation
+  - delay 100
+  - setai{ai=true} @self
+冲刺结束:
+  Skills:
+  - velocity{m=set;x=0;y=-1;z=0;repeat=1;repeati=1} @self
+  - explode{y=3;bd=true} @selflocation{y=1}
+  - jump{v=-1}
+  - setai{ai=false} @self
+  - effect:particleorbital{r=0.5;points=16;t=100;i=1;vy=100;oy=2.5;particle=Enchanted_Hit} @SelfLocation
+  - m{m="&6巴尔坦：&f呣......"} @pir{r=50}
+  - delay 100
+  - setai{ai=true} @self
+
+跳劈技能-1:
+  Cooldown: 10
+  Conditions:
+  - health{h=600to900} true
+  Skills:
+  - m{m="&6巴尔坦：&f呣!"} @pir{r=50}
+  - leap{velocity=150} @target
+  - jump{velocity=0.8}
+  - effect:particles{p=poof;amount=30;speed=0.1;hS=0.05;vS=0.05} @origin
+  - effect:explosion @self
+  - delay 20
+  - jump{velocity=-100}
+  - delay 5
+  - damage{a=10} @EntitiesInRadius{r=5}
+  - effect:explosion @self
+  - effect:particles{p=poof;amount=200;speed=0.3;hS=1;vS=1} @SelfLocation
+  - blockwave{duration=30;material=stone;radius=5;radiusY=5;velocity=1.25;shape=sphere} @selflocation
+
+旋转技能-1:
+  Cooldown: 10
+  Conditions:
+  - health{h=600to900} true
+  Skills:
+  - m{m="&6巴尔坦：&f呣!"} @pir{r=50}
+  - effect:particlering{repeat=120;repeati=1;particle=End_Rod;radius=8;points=32;amount=1;hS=0;vS=0} @SelfLocation
+  - delay 30
+  - pull{v=1;repeat=100;repeatInterval=1} @self
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=8;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=7.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=6.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=6;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=5.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=4.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=4;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=3.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=3;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=2.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=2;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=1.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-1;onHitSkill=旋转击中-1;r=1;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - effect:particleorbital{r=8;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=7.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=7;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=6.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=6;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=5.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=4.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=4;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=3.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=3;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=2.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=2;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=1.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=1;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+旋转特效-1:
+  Skills:
+  - effect:particles{particle=White_Ash;amount=0;speed=0;hS=0;vS=0}
+旋转击中-1:
+  Skills:
+  - potion{type=SLOW;duration=20;level=2}
+  - damage{a=10}
+
+闪电技能:
+  Cooldown: 100
+  Conditions:
+  - health{h=500to600} true
+  Skills:
+  - m{m="&6巴尔坦：&f呣...!!!"} @pir{r=50}
+  - effect:particlering{repeat=500;repeati=1;particle=End_Rod;radius=25;points=128;amount=1;hS=0;vS=0;y=0.5} @Origin
+  - potion{type=SLOW;duration=500;level=4} @eno{r=25}
+  - jump{velocity=1}
+  - delay 15
+  - pull{v=1;repeat=500;repeatInterval=1} @self
+  - delay 30
+  - missile{onTick=闪电特效;oh=闪电击中;HitTargetOnly=true;i=1;d=100;v=30} @eno{r=25}
+  - delay 50
+  - missile{onTick=闪电特效;oh=闪电击中;HitTargetOnly=true;i=1;d=100;v=30} @eno{r=25}
+  - delay 50
+  - missile{onTick=闪电特效;oh=闪电击中;HitTargetOnly=true;i=1;d=100;v=30} @eno{r=25}
+  - delay 50
+  - missile{onTick=闪电特效;oh=闪电击中;HitTargetOnly=true;i=1;d=100;v=30} @eno{r=25}
+  - delay 50
+  - missile{onTick=闪电特效;oh=闪电击中;HitTargetOnly=true;i=1;d=100;v=30} @eno{r=25}
+  - delay 50
+  - missile{onTick=闪电特效;oh=闪电击中;HitTargetOnly=true;i=1;d=100;v=30} @eno{r=25}
+  - delay 50
+  - missile{onTick=闪电特效;oh=闪电击中;HitTargetOnly=true;i=1;d=100;v=30} @eno{r=25}
+  - delay 50
+  - missile{onTick=闪电特效;oh=闪电击中;HitTargetOnly=true;i=1;d=100;v=30} @eno{r=25}
+  - delay 50
+  - missile{onTick=闪电特效;oh=闪电击中;HitTargetOnly=true;i=1;d=100;v=30} @eno{r=25}
+  - delay 50
+  - missile{onTick=闪电特效;oh=闪电击中;HitTargetOnly=true;i=1;d=100;v=30} @eno{r=25}
+闪电特效:
+  Skills:
+  - effect:particles{particle=White_Ash;amount=0;speed=0;hS=0;vS=0}
+闪电击中:
+  Skills:
+  - effect:particleorbital{r=1.5;points=16;t=27;i=1;vy=20;particle=Cloud;oy=-1.5} @Origin
+  - delay 30
+  - Lightning @Origin
+
+跳劈技能-2:
+  Cooldown: 10
+  Conditions:
+  - health{h=0to500} true
+  Skills:
+  - m{m="&6巴尔坦：&f呣!"} @pir{r=50}
+  - leap{velocity=150} @target
+  - jump{velocity=0.8}
+  - effect:particles{p=poof;amount=30;speed=0.1;hS=0.05;vS=0.05} @origin
+  - effect:explosion @self
+  - delay 20
+  - jump{velocity=-100}
+  - delay 5
+  - damage{a=10} @EntitiesInRadius{r=5}
+  - effect:explosion @self
+  - effect:particles{p=poof;amount=200;speed=0.3;hS=1;vS=1} @SelfLocation
+  - blockwave{duration=30;material=stone;radius=5;radiusY=5;velocity=1.25;shape=sphere} @selflocation
+
+旋转技能-2:
+  Cooldown: 10
+  Conditions:
+  - health{h=0to500} true
+  Skills:
+  - m{m="&6巴尔坦：&f呣!"} @pir{r=50}
+  - effect:particlering{repeat=120;repeati=1;particle=End_Rod;radius=8;points=32;amount=1;hS=0;vS=0} @SelfLocation
+  - delay 30
+  - pull{v=1;repeat=100;repeatInterval=1} @self
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=8;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=7.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=6.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=6;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=5.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=4.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=4;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=3.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=3;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=2.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=2;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=1.5;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - orbital{onTickSkill=旋转特效-2;onHitSkill=旋转击中-2;r=1;oy=0.75;points=16;interval=1;duration=100;vy=20} @SelfLocation
+  - effect:particleorbital{r=8;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=7.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=7;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=6.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=6;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=5.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=4.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=4;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=3.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=3;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=2.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=2;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=1.5;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+  - effect:particleorbital{r=1;particle=Damage_Indicator;points=16;t=100;vy=20;i=1;oy=0.75} @SelfLocation
+旋转特效-2:
+  Skills:
+  - effect:particles{particle=White_Ash;amount=0;speed=0;hS=0;vS=0}
+旋转击中-2:
+  Skills:
+  - potion{type=SLOW;duration=20;level=2}
+  - damage{a=10}
